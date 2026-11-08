@@ -1,0 +1,2 @@
+Badan Pusat Statistik Provinsi Jawa Barat. (2025). Persentase Penduduk Miskin menurut Kabupaten/Kota di Jawa Barat. Diakses dari https://statistik.jabarprov.go.id/dashboard/kemiskinan pada 08 November 2026.
+Badan Pusat Statistik Provinsi Jawa Barat. (2025). Rata-rata Lama Sekolah menurut Kabupaten/Kota di Jawa Barat. Diakses dari https://statistik.jabarprov.go.id/dashboard/rls pada 08 November 2026.

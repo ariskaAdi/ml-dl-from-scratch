@@ -1,0 +1,20 @@
+# === Lingkungan Python ===
+.venv/
+__pycache__/
+*.pyc
+
+# === Rahasia ===
+.env
+
+# === Model hasil training (bisa dilatih ulang, ukurannya bisa besar) ===
+*.joblib
+*.pt
+
+# === Data hasil olahan (bisa dibuat ulang dengan skrip) ===
+data*
+
+# === File sampah dari sistem operasi dan editor ===
+Thumbs.db
+desktop.ini
+.DS_Store
+.ipynb_checkpoints/
